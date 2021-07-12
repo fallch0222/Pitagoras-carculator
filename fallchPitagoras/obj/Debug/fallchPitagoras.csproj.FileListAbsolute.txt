@@ -1,0 +1,7 @@
+D:\fallch SCPSL Plugin Dev\fallchPitagoras\fallchPitagoras\bin\Debug\fallchPitagoras.exe.config
+D:\fallch SCPSL Plugin Dev\fallchPitagoras\fallchPitagoras\bin\Debug\fallchPitagoras.exe
+D:\fallch SCPSL Plugin Dev\fallchPitagoras\fallchPitagoras\bin\Debug\fallchPitagoras.pdb
+D:\fallch SCPSL Plugin Dev\fallchPitagoras\fallchPitagoras\obj\Debug\fallchPitagoras.csproj.AssemblyReference.cache
+D:\fallch SCPSL Plugin Dev\fallchPitagoras\fallchPitagoras\obj\Debug\fallchPitagoras.csproj.CoreCompileInputs.cache
+D:\fallch SCPSL Plugin Dev\fallchPitagoras\fallchPitagoras\obj\Debug\fallchPitagoras.exe
+D:\fallch SCPSL Plugin Dev\fallchPitagoras\fallchPitagoras\obj\Debug\fallchPitagoras.pdb
